@@ -19,7 +19,3 @@ This project involves the creation of a modern chat application aimed at providi
 - React
 - Redux
 - Bootstrap
-
-## Purpose
-
-This project serves as more than just a communication tool—it's a showcase of modern web application development using cutting-edge technologies. It demonstrates the possibilities of creating highly interactive and efficient applications for real-world use cases. 
